@@ -1,0 +1,83 @@
+*  {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #ededed;
+}
+
+.borde {
+    background-color: #000;
+}
+
+.row {
+    width: 100%;
+    padding-left: 10px;/* .... algo esta mal */
+}
+
+.caja1 {
+    background-color: #C9D1D3;
+    height: 100px;
+}
+
+.caja2 {
+    background-color: #F7F7F7;
+    height: 100px;
+}
+
+.caja3 {
+    background-color: #9DD3DF;
+    height: 100px;
+}
+
+.caja4 {
+    background-color: #3B3737;
+    height: 100px;
+}
+
+.caja5 {
+    background-color: #991818;
+    height: 100px;
+}
+
+.caja6 {
+    background-color: #434C70;
+    height: 100px;
+}
+
+.caja7 {
+    background-color: #472D1D;
+    height: 100px;
+}
+
+.caja8 {
+    background-color: #C1A78E;
+    height: 100px;
+}
+
+.caja9 {
+    background-color: #E8DAB7;
+    height: 100px;
+}
+
+.caja10 {
+    background-color: #002B55;
+    height: 100px;
+}
+
+.caja11 {
+    background-color: #C76666;
+    height: 100px;
+}
+
+.caja12 {
+    background-color: #C9D1D3;
+    height: 100px;
+}
+
+.caja13 {
+    background-color: #66cfe9;
+    height: 100px;
+}
