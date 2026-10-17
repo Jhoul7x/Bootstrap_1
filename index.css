@@ -14,7 +14,7 @@ body {
 
 .row {
     width: 100%;
-    padding-left: 10px;/* .... algo esta mal */
+    padding-left: 10px;
 }
 
 .caja1 {
@@ -29,7 +29,7 @@ body {
 
 .caja3 {
     background-color: #9DD3DF;
-    height: 300px;
+    height: 100px;
 }
 
 .caja4 {
@@ -80,4 +80,24 @@ body {
 .caja13 {
     background-color: #66cfe9;
     height: 100px;
+}
+
+/* responsive */
+
+@media (width >= 1024px) {
+    .caja3 {
+        height: 300px;
+    }
+}
+
+@media (width >= 1280px) {
+    .caja3 {
+        height: 300px;
+    }
+}
+
+@media (width >= 1536px) {
+    .caja3 {
+        height: 300px;
+    }
 }
