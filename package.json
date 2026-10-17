@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap_1",
+  "version": "1.0.0",
+  "description": "implementacion de responsive mediante el framework Bootstrap, en donde fue posible adaptar el contenido para celulares tablets y pc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhoul7x/Bootstrap_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jhoul7x/Bootstrap_1/issues"
+  },
+  "homepage": "https://github.com/Jhoul7x/Bootstrap_1#readme",
+  "devDependencies": {
+    "vite": "^8.3.4"
+  }
+}
